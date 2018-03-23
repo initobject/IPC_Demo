@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/aidl_client/aidl_client.iml" filepath="$PROJECT_DIR$/aidl_client/aidl_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/aidl_server/aidl_server.iml" filepath="$PROJECT_DIR$/aidl_server/aidl_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messenger_client/messenger_client.iml" filepath="$PROJECT_DIR$/messenger_client/messenger_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messenger_server/messenger_server.iml" filepath="$PROJECT_DIR$/messenger_server/messenger_server.iml" />
     </modules>
   </component>
 </project>

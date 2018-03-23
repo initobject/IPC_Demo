@@ -1,1 +1,1 @@
-include ':app', ':aidl_server', ':aidl_client'
+include ':app', ':aidl_server', ':aidl_client', ':messenger_server', ':messenger_client'
